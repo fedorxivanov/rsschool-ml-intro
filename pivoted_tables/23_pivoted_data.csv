@@ -1,4 +1,0 @@
-﻿courseId,studentId,isTopPerformer,isTest,abs_score,howManyHasLowerScore,totalScore,mentorId,repository,score_391.0,score_411.0,score_514.0,score_515.0
-23,15388,True,False,1.0,0.6666666666666666,231.0,N/A,N/A,0,0,103,128
-23,13570,False,False,0.8658008658008658,0.3333333333333333,200.0,N/A,N/A,100,100,0,0
-23,13465,UNKNOWN,True,0.7359307359307359,0.0,170.0,N/A,https://github.com/rolling-scopes-school/1629f93a-b6c4-561e-b5d7-5592853b4f57-TESTCOURSE,100,70,0,0
